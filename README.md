@@ -1,4 +1,4 @@
-# moviesProject
+# movies Project
 
 Application to search for movies
 Technology used: react native

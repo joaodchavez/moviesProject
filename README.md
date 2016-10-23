@@ -3,10 +3,12 @@
 Application to search for movies
 Technology used: react native
 
-Motivation
+# Motivation
+
 Build a react native application, using an external API
 
-API Reference
+# API Reference
+
 The application is using the following API: https://www.omdbapi.com
 
 
